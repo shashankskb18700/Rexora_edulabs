@@ -1,0 +1,37 @@
+.form{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: rgb(34, 4, 61);
+  align-content: flex-start;
+  margin-top: 70px;
+  border-radius: 7px;
+}
+p{
+  margin-bottom: 40px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  font-family: 'Monsterat';
+}
+.button{
+  width: 30%;
+  margin-left: 60%;
+  font-family: "Montserrat";
+}
+input{
+  width: 80%;
+}
+
+.det{
+  margin: 20px;
+}
+span{
+  margin-right: 10px;
+}
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+.about{
+  display: flex;
+
+  justify-content: space-around;
+  justify-self: center;
+  padding: 20px 10%;
+}

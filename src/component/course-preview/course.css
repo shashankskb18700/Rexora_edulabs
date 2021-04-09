@@ -1,0 +1,28 @@
+.course{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 30vh;
+  margin: 70px 20px;
+  background:white;
+  border-radius: 5px;
+}
+.image img{
+  width: 160px;
+  height: 150px;
+}
+.detail{
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
+  color: black;
+  margin-left: 10px;
+}
+.price{
+  color: black;
+  background-color: cadetblue;
+  padding: 5px;
+  border-radius: 5px;
+  margin-right: 10px;
+}

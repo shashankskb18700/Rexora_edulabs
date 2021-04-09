@@ -1,0 +1,23 @@
+.nav{
+  display:  flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 10px 25px 25px;
+  background-color: black;
+  color: white;
+
+}
+
+.options{
+  display: flex;
+  color: white;
+}
+.options h3{
+  padding: 0 0 0 15px;
+  cursor: pointer;
+}
+.options :hover{
+  color: lightblue;
+}
+
+

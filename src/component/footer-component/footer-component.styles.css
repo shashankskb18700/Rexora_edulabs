@@ -1,0 +1,19 @@
+.footer{
+  
+  height: 30px;
+  background:black;
+
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  padding: 0 20px;
+}
+.footer i{
+  cursor: pointer;
+  padding-left: 10px;
+}
+.footer i :hover{
+  color: blueviolet;
+  
+
+}
